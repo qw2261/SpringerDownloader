@@ -2,3 +2,5 @@ bs4
 requests
 lxml
 clint
+pandas
+numpy
